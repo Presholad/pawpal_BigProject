@@ -20,3 +20,8 @@ Veterinary Services: Book vet appointments or remote consultations and reminder 
 Boarding and Grooming: Browse through, book, and organize idyllic boarding and grooming.
 
 Community Connect: Share stories, find playdates, and join events with dog lovers in your neighborhood.
+
+## Designing
+We deigned a figma layout to draw inspiration for out project design. However,due to figma's inability to export prototype connections the link to the file is below
+https://www.figma.com/design/T0foe1ds6ZkAXG5sxe0TPB/Pawpql?node-id=0-1&t=aMBIyT7RHB37Hz4L-1
+
